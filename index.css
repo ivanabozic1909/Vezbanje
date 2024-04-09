@@ -1,0 +1,15 @@
+#forma{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+padding: 20px 10px 20px 10px;
+font-family: Arial, Helvetica, sans-serif;
+}
+#posalji-dugme{
+background-color: blue;
+width: 500px;
+border-radius: 5px;
+height: 30px;
+color: aliceblue;
+
+}
